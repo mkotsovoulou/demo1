@@ -1,4 +1,4 @@
 --This selects all data from the employees table
- * FROM employees;
+HELLO11 SELECT * FROM employees;
 
 --this is a new line of code
